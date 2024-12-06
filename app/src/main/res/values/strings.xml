@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Object Detector</string>
     <string name="camera">camera</string>
+    <string name="flip_camera">flip camera</string>
+    <string name="number_of_objects">number of objects icon</string>
+    <string name="confidence_threshold">confidence threshold\n</string>
 </resources>

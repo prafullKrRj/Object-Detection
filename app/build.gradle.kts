@@ -70,11 +70,7 @@ dependencies {
     implementation ("androidx.camera:camera-view:1.4.0")
 
     // ML Kit Object Detection
-    implementation ("com.google.mlkit:object-detection:17.0.2")
-    implementation("org.tensorflow:tensorflow-lite-task-vision:0.4.0")
-    implementation("org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0")
-    implementation("org.tensorflow:tensorflow-lite-gpu:2.9.0")
-
+    implementation("com.google.mlkit:object-detection:17.0.2")
     // Splash-Screen Dependency
     implementation("androidx.core:core-splashscreen:1.0.1")
 
