@@ -14,12 +14,14 @@ This is an Android application that uses the camera to detect objects in real-ti
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/prafullKrRj/object-detector.git
+    git clone https://github.com/prafullKrRj/Object-Detection.git
     ```
    
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
+## Download APK from here
+[Click Here](https://drive.google.com/file/d/12O_KvgIwZymREnql-ClxUQgzoK_WqKTH/view?usp=sharing)
 ## Usage
 
 - Launch the app to start the camera preview.
