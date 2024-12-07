@@ -27,6 +27,11 @@ This is an Android application that uses the camera to detect objects in real-ti
 - Adjust the confidence threshold slider to change the detection sensitivity.
 - The number of detected objects will be displayed on the screen.
 
+## Screenshots
+
+Here are some screenshots of the app in action:
+
+- ![Screenshot 1](https://raw.githubusercontent.com/prafullKrRj/Object-Detection/refs/heads/master/screenshots/sc.jpg)
 ## Dependencies
 
 - [AndroidX CameraX](https://developer.android.com/training/camerax)
