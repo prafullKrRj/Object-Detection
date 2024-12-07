@@ -58,7 +58,7 @@
                         android:layout_height="44dp"
                         android:alpha="0.5"
                         android:contentDescription="@string/number_of_objects"
-                        android:src="@drawable/outline_camera_alt_24"
+                        android:src="@drawable/ic_object_count"
                         app:tint="@color/white"
                         tools:visibility="visible" />
 
